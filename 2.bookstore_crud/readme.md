@@ -10,4 +10,4 @@ Use express-generator to create a basic bookstore CRUD where anyone can
   - use mongoose to connect to mongodb database and create book models
   - use ejs forms to add/edit books
 
-Create a project named bookstore using express-generator inside root of this directory.
+Create a project named bookstore using express-generator inside root of this directory(bookstore_crud).
